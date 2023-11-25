@@ -67,4 +67,4 @@ Silahkan buka browser dan ketikkan : http://localhost:8000
 
 ## License
 
-UANGKU is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+UANGKU is open-source software and Open Heart developer. You have to have a heart for the Developer.
