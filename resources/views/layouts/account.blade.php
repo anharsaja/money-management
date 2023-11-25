@@ -78,7 +78,7 @@
             <div class="main-sidebar sidebar-style-2">
                 <aside id="sidebar-wrapper">
                     <div class="sidebar-brand">
-                        <a href="index.html"><i class="fas fa-gem" style="font-size: 18px"></i> <span style="font-size: 17px;"> UANGKU </span><span style="font-size: 10px;">BETA</span></a>
+                        <a href="index.html"><i class="fas fa-gem" style="font-size: 18px"></i> <span style="font-size: 17px;"> UANGKU </span> <!--<span style="font-size: 10px;">BETA</span> --></a>
                     </div>
                     <div class="sidebar-brand sidebar-brand-sm">
                         <a href="index.html"><i class="fa fa-gem"></i></a>
@@ -126,7 +126,7 @@
 
             <footer class="main-footer" style="border-top: 3px solid #6777ef;background-color: #ffffff;margin-bottom: -20px">
                 <div class="footer-left">
-                    © <strong>UANGKU</strong> 2019. Hak Cipta Dilindungi.
+                    © <strong>UANGKU</strong> 2023 - Hak Cipta Milik Hatimu
                 </div>
                 <div class="footer-right">
 
