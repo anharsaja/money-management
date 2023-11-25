@@ -113,7 +113,7 @@
 
                     <div class="mt-4 mb-4 p-3 hide-sidebar-mini">
                         <a href="https://github.com/anharsaja/money-management" class="btn btn-primary btn-lg btn-block btn-icon-split">
-                            <i class="fab fa-github"></i> GITHUB <3
+                            <i class="fab fa-github"></i> GITHUB
                         </a>
                     </div>
                 </aside>
