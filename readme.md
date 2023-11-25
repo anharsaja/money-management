@@ -16,7 +16,6 @@ UANGKU adalah aplikasi opens source yang dikembangkan untuk mencatat problem keu
 UANGKU juga akan dibuat versi native android, yang rencana akan di kembangkan dengan android studi / java.
 Untuk versi webnya menggunakan Framework Laravel
 
-**NOTE**: template admin menggunakan stisla, untuk lebih lengkapnya bisa kunjungi situs resminya di: https://getstisla.com/
 
 ## Screenshot
 
