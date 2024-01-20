@@ -36,7 +36,7 @@ Untuk versi webnya menggunakan Framework Laravel
 
 ## Cara Install
 
-`$ > git clone https://github.com/maulayyacyber/uangku-laravel.git`
+`$ > git clone https://github.com/anharsaja/money-management`
 
 `$ > cd uangku-laravel`
 
